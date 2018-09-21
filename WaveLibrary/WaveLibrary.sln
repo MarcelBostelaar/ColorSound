@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaveLibrary", "WaveLibrary\WaveLibrary.csproj", "{8BDC034E-C2EC-4B28-9350-C667AB5D01C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEnvironment", "TestEnvironment\TestEnvironment.csproj", "{69CA0385-2663-4161-A6D9-BACAC8AEC81F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BDC034E-C2EC-4B28-9350-C667AB5D01C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BDC034E-C2EC-4B28-9350-C667AB5D01C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BDC034E-C2EC-4B28-9350-C667AB5D01C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BDC034E-C2EC-4B28-9350-C667AB5D01C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69CA0385-2663-4161-A6D9-BACAC8AEC81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CA0385-2663-4161-A6D9-BACAC8AEC81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CA0385-2663-4161-A6D9-BACAC8AEC81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CA0385-2663-4161-A6D9-BACAC8AEC81F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {503E5EBD-88EF-4E0E-9B16-2C3C8195B18D}
+	EndGlobalSection
+EndGlobal
